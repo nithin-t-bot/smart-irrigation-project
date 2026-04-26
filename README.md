@@ -142,6 +142,34 @@ POST /predict
 
 ---
 
+## 📸 Project Screenshots
+
+### 📱 Blynk App Readings
+
+![Blynk Readings](images/blynk_readings.png)
+
+### 📊 Blynk Templates
+
+![Blynk Templates](images/blynk_templates.png)
+
+### 🌐 Flask Server Page
+
+![Server](images/server_page.png)
+
+### ⚙️ Hardware Setup
+
+![Setup](images/setup.png)
+
+### 🔌 Circuit Diagram
+
+![Circuit](images/circuit.png)
+
+### 💻 Arduino Code
+
+![Arduino](images/arduino_code.png)
+
+---
+
 ## 📊 Results
 
 * Automated irrigation system implemented
